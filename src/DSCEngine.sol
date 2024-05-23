@@ -38,6 +38,18 @@ contract DSCEngine  is ReentrancyGuard{
 
 
 
+//////////////////////////////
+/////Events
+/////////////////////////////
+
+
+/////////////////////////////
+//////Modifier
+/////////////////////////////
+
+
+
+
 constructor(address[] tokenAddresses,address[] priceFeedAddresses, address dscEngine){
 
 
